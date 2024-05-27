@@ -1,10 +1,8 @@
----
-
 # Portifólio React Native
 
-Este é um projeto de portifólio desenvolvido em React Native usando o Expo.
+🚀 Este é um projeto de portifólio desenvolvido em React Native usando o Expo.
 
-## Tecnologias Utilizadas
+## 💻 Tecnologias Utilizadas
 
 - **React Native**: Framework JavaScript para desenvolvimento de aplicativos móveis multiplataforma.
 - **Expo**: Plataforma e conjunto de ferramentas para desenvolvimento de aplicativos móveis com React Native.
@@ -13,7 +11,7 @@ Este é um projeto de portifólio desenvolvido em React Native usando o Expo.
 - **Expo Go**: Aplicativo móvel usado para visualizar e testar projetos Expo em dispositivos físicos.
 - **Visual Studio Code**: IDE popular para desenvolvimento de software.
 
-## Como Rodar o Projeto?
+## 🔌 Como Rodar o Projeto?
 
 1. **Clone o Repositório**:
    ```bash
@@ -45,11 +43,9 @@ Este é um projeto de portifólio desenvolvido em React Native usando o Expo.
    - Abra o aplicativo Expo Go no seu dispositivo móvel e escaneie o QR code com a câmera do seu celular.
    - O aplicativo Expo Go abrirá o projeto no seu dispositivo.
 
-## Observações
+## 📋 Observações
 
 - Certifique-se de ter o Node.js instalado na sua máquina.
 - Este projeto utiliza Expo, portanto, é necessário ter o Expo CLI instalado globalmente (`npm install -g expo-cli`).
 - Para desenvolvimento no iOS, é necessário ter um Mac e o Xcode instalado.
 - Para desenvolvimento no Android, é necessário ter o Android Studio instalado.
-
----
