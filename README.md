@@ -49,3 +49,5 @@
 - Este projeto utiliza Expo, portanto, é necessário ter o Expo CLI instalado globalmente (`npm install -g expo-cli`).
 - Para desenvolvimento no iOS, é necessário ter um Mac e o Xcode instalado.
 - Para desenvolvimento no Android, é necessário ter o Android Studio instalado.
+
+Desenvolvido por 🙋🏽‍♂️[Vinicius Fernando](https://www.linkedin.com/in/viniciusfernandodev/).
